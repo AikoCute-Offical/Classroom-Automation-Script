@@ -1,2 +1,4 @@
 # Classroom-Automation-Script
 Google Classroom
+
+Đây là repo được thực hiện để giữ mã tự động hóa lớp học của google để giải quyết các trường hợp sử dụng như Sao chép / nhân bản các phần từ lớp học này sang lớp học khác, báo cáo tiến độ của học sinh, xóa một phần, liệt kê tất cả các phần, liệt kê tất cả các phần và bài tập trong phần, xuất bản và lên lịch cho tất cả các phần để nó cung cấp một số khả năng còn thiếu cho GC (phòng học google) HƯỚNG DẪN SỬ DỤNG - để sử dụng nó, người ta phải mở google sheet, đi tới công cụ, sau đó tập lệnh và dán tập lệnh vào đó và đặt tên cho các tab google sheet theo mã để chạy nó
